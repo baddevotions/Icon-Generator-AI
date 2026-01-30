@@ -1,0 +1,5 @@
+{
+  "name": "Icon Generator AI",
+  "description": "Upload a series of illustrations as a training set and provide a prompt to generate a new icon based on the style of the uploaded images.",
+  "requestFramePermissions": []
+}
